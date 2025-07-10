@@ -30,7 +30,7 @@ The dataset contains: More than 7000+ rows and 11 columns.
 |------|-------------|
 | `DATASET-HEALTHCARE.xlsx` | Source dataset |
 | `HEALTHCARE.pbix` | Power BI report/dashboard |
-| `assets/` | Optional folder for screenshots |
+| `images of dashboard | dashboard screenshots |
 | `README.md` | Documentation |
 
 ## 🧰 How to Use This Project
